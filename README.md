@@ -1,4 +1,4 @@
-### In this project, I made an application that you can search for photos using the unsplash api. I completed the project with Tailwind CSS and axios.
+### In this project, I made an application that you can search for photos using the unsplash api. I completed the project with tailwind css and axios.
 
 #### Click on [Live Project](https://unsplash-photos-gallery.netlify.app/).
 

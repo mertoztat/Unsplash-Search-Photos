@@ -1,3 +1,7 @@
+### In this project, I made an application that you can search for photos using the unsplash api. I completed the project with Tailwind CSS and axios.
+
+#### Click on [Live Project](https://unsplash-photos-gallery.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
